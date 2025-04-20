@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sham2217  
+- 👋 Hi, I’m @shamsundar 
 - 👀 I’m interested in web development, AI tools, and creative tech projects  
 - 🌱 I’m currently learning JavaScript, MongoDB, Express.js, and React (MERN Stack)  
 - 💞️ I’m looking to collaborate on simple web apps, AI-integrated projects, and student tech communities  
